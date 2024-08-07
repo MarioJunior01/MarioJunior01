@@ -19,4 +19,8 @@ My name is Mário Júnior, I live in Brazil and study at IFPR, I am currently le
   
 <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJunior01&layoutt&theme=midnight-purple" />
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 </div>
