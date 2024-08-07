@@ -24,13 +24,8 @@ My name is Mário Júnior, I live in Brazil and study at IFPR, I am currently le
 </p>
  
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/MarioJunior01/MarioJunior01/blob/main/github-snake.svg" alt="snake"/>
 </p>
 
 </div>
