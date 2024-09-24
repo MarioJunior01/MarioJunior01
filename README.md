@@ -11,7 +11,7 @@ My name is Mário Júnior, I live in Brazil and study at IFPR, I am currently le
 
 <div>
 <Br>
-<img src="https://media4.giphy.com/media/LSKHkpRJySs5W81D7B/giphy.gif?cid=6c09b952p1laiiav4joegya5z4hg8di1ohdk2wrmqsgpjfgt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="this slowpoke moves" height="700" width="1000" />
+<img src="https://media4.giphy.com/media/LSKHkpRJySs5W81D7B/giphy.gif?cid=6c09b952p1laiiav4joegya5z4hg8di1ohdk2wrmqsgpjfgt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="this slowpoke moves" height="350" width="1000" />
 <Br>
 <Br>
 
