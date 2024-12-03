@@ -2,7 +2,8 @@
 
 Olá, eu sou o Mário Júnior! 👋
 
-🎓 Estudante
+🎓 Estudante.
+
 💻 Programação: Atualmente aprendendo Java e expandindo minhas habilidades em tecnologia.
 
 
