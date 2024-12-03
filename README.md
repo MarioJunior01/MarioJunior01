@@ -1,8 +1,9 @@
 
 
-# Hello
-***
-My name is Mário Júnior, I live in Brazil and study at IFPR, I am currently learning to program in Java.
+Olá, eu sou o Mário Júnior! 👋
+
+🎓 Estudante
+💻 Programação: Atualmente aprendendo Java e expandindo minhas habilidades em tecnologia.
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
