@@ -1,11 +1,6 @@
 
 
-Olá, eu sou o Mário Júnior! 👋
-
-MANY MEN
-🎓 Estudante.    
-💻 Programação: Atualmente aprendendo Java e expandindo minhas habilidades em tecnologia.
-
+Olá
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=MarioJunior01&layout=donut&theme=midnight-purple" />
