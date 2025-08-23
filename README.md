@@ -35,7 +35,3 @@
 </p>
 
 
-<p align="center">
-  <img src="img/snake_signature.gif" alt="Snake Signature" />
-</p>
-
