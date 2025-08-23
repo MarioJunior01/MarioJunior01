@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="img/snake_signature.gif" alt="Snake Signature" />
+</p>
+
 ---
 
 <p align="center">
