@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="img/snake_signature.gif" alt="Snake Signature" />
-</p>
+
 
 ---
 
@@ -34,5 +32,10 @@
 </p>
 <p align="center">
  <img width="700" src="https://github.com/MarioJunior01/MarioJunior01/blob/main/github-snake.svg" alt="snake"/>
+</p>
+
+
+<p align="center">
+  <img src="img/snake_signature.gif" alt="Snake Signature" />
 </p>
 
