@@ -2,14 +2,6 @@
 ## 👋 Olá, me chamo Mário Júnior!
 
 🎓 Estou cursando **Informática** no **IFMS - Ponta Porã**  
-💻 Atualmente aprendendo:
-- **Java**
-- **PHP**
-- **Dart com Flutter**
-- **JavaScript**
-- **SQL**
-- **C e C++ com arduino**
-
 ---
 
 <p align="center">
