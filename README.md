@@ -1,7 +1,7 @@
 
 ## 👋 Olá, me chamo Mário Júnior!
 
-🎓 Estou cursando **Informática** no **IFMS - Ponta Porã**  
+
 ---
 
 <p align="center">
