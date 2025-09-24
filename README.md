@@ -1,7 +1,4 @@
 
-## 👋 Olá, me chamo Mário Júnior!
-
-
 ---
 
 <p align="center">
