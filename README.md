@@ -1,6 +1,7 @@
 
 ---
 
+
 ### 🖥️ Linguagens
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -15,6 +16,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioJunior01&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
