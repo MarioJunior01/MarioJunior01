@@ -11,12 +11,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioJunior01&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJunior01&layout=compact&theme=midnight-purple&hide_border=true&langs_count=12" />
-</p>
 
----
 <p align="center">
  <img width="700" src="https://github.com/MarioJunior01/MarioJunior01/blob/main/github-snake.svg" alt="snake"/>
 </p>
